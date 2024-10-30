@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="../static/css/register.css">
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script type="text/javascript" src="../static/js/register.js"></script>
+    <title>注册页面</title>
+</head>
+
+<body>
+    <div class="container">
+        <h2>注册页面</h2>
+        <div class="video-container">
+            <video id="video" autoplay></video>
+            <div class="button-container">
+                <button id="startBtnRegister">打开摄像头</button>
+                <button id="stopBtnRegister">关闭摄像头</button>
+                <button id="captureButton">拍照</button>
+            </div>
+        </div>
+        <input type="text" id="name" placeholder="请输入姓名">
+        <div class="imageView">
+            <button id="registerButton">注册</button>
+            <img id="capturedImage" alt="Captured Image">
+        </div>
+    </div>
+</body>
+
+</html>
