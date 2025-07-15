@@ -34,47 +34,11 @@
 
 ### 👩‍🎓 学生
 
-邓乙华，从事计算机视觉的研究和JavaScript项目的开发。
+邓乙华，从事人工智能应用开发；主要研究领域：大模型能力增强、智能体通信机制、跨模态数据处理与生成式系统设计。
 
-<h2 align="center">🚀更新走势</h2>
+✨  Github：https://github.com/YolieDeng
 
-- `2024-01-01` **⚡ [Face VectorDB Login v1.0.0](https://gitee.com/intelligence-vision/face-vectordb-login/releases/tag/v1.0.0)正式上线**
-
-<h2 align="center">💎项目流程与用途</h2>
-
-### 📌 项目整体流程
-
-<div align="center" >
-<img src="https://pycver.gitee.io/ows-pics/imgs/face-vectordb-workflow.png">
-</div>
-
-### 📌 项目核心算法与业务流程
-
-<div align="center" >
-<img src="https://pycver.gitee.io/ows-pics/imgs/vectordb-face-workflow.png">
-</div>
-
-### 📌 Face VectorDB Login Flask 系统界面
-
-#### ❤️ Face VectorDB Login Flask 主页
-
-<div align="center" >
-<img src="https://pycver.gitee.io/ows-pics/imgs/face-vectordb-login-flask-index.png">
-</div>
-
-#### ❤️ Face VectorDB Login Flask 注册页面
-
-<div align="center" >
-<img src="https://pycver.gitee.io/ows-pics/imgs/face-vectordb-login-flask-register.png">
-</div>
-
-#### ❤️ Face VectorDB Login Flask 登录页面
-
-<div align="center" >
-<img src="https://pycver.gitee.io/ows-pics/imgs/face-vectordb-login-flask-login.png">
-</div>
-
-<h2 align="center">💡项目结构</h2>
+### 💡 Face VectorDB Login Flask 项目结构
 
 ```
 .
@@ -286,16 +250,11 @@ python face-vectordb-login-selenium/login_seleniunm_fvdbl.py
 
 ### 📝 项目引用指南
 
-📌 如需引用Face VectorDB Login v1.0.0，请在相关文章的**参考文献**中加入下面文字：
+📌 如需引用Face VectorDB Login，请在相关文章的**参考文献**中加入下面文字：
 
 ```
 曾逸夫, 邓乙华 (2024) Face VectorDB Login (Version 1.0.0).https://gitee.com/intelligence-vision/face-vectordb-login.git.
 ```
-
-### 💬 技术交流
-
-- 如果你发现任何Face VectorDB Login存在的问题或者是建议, 欢迎通过[Gitee Issues](https://gitee.com/intelligence-vision/face-vectordb-login/issues)给我提issues。
-- 欢迎加入Intelligence Vision技术交流群
 
 <div align="center" >
 <img src="https://pycver.gitee.io/ows-pics/imgs/IntelligenceVisionGroup.jpg" width="20%">
