@@ -34,6 +34,26 @@
 
 ✨  Github：https://github.com/YolieDeng
 
+### 🌟 Face VectorDB Login Flask 功能介绍
+
+本项目基于向量数据库，构建了一个人脸识别注册与登录系统，核心特点和功能如下：
+
+- **向量数据库支持**  
+  利用 PostgreSQL 的 pgvector 插件实现高效的向量存储与相似度检索，提升人脸特征匹配性能。
+
+- **人脸识别模型集成**  
+  集成 InsightFace 人脸识别模型，实现精准的人脸特征提取，支持多种识别距离度量（欧氏距离、余弦相似度）。
+
+- **多端支持**  
+  提供 Python CLI 命令行注册和登录模块，方便快速测试与使用；  
+  基于 Flask 3 Blueprints 构建模块化 Web 应用，支持用户通过网页完成注册和登录。
+
+- **数据库管理**  
+  使用 PostgreSQL 存储用户向量特征与相关信息，支持初始化数据库及插件激活。
+
+- **自动化测试**  
+  集成 Selenium 自动化测试脚本，实现对注册和登录页面的自动化功能测试。
+
 ### 💡 Face VectorDB Login Flask 项目结构
 
 ```
@@ -249,5 +269,5 @@ python face-vectordb-login-selenium/login_seleniunm_fvdbl.py
 📌 如需引用Face VectorDB Login，请在相关文章的**参考文献**中加入下面文字：
 
 ```
-曾逸夫, 邓乙华 (2024) Face VectorDB Login (Version 1.0.0).https://gitee.com/intelligence-vision/face-vectordb-login.git.
+曾逸夫, 邓乙华 (2024) Face VectorDB Login.https://github.com/YolieDeng/Face-VectorDB-Login.
 ```
