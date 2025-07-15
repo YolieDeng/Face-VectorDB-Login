@@ -1,8 +1,4 @@
 <p align="center">
-<a href="https://gitee.com/intelligence-vision/face-vectordb-login">
-<img src="https://pycver.gitee.io/ows-pics/imgs/face-vectordb-login_logo02.png" alt="Simple Icons" >
-</a>
-<p align="center">
     基于向量数据库的人脸识别注册与登录系统
 </p>
 </p>
@@ -255,7 +251,3 @@ python face-vectordb-login-selenium/login_seleniunm_fvdbl.py
 ```
 曾逸夫, 邓乙华 (2024) Face VectorDB Login (Version 1.0.0).https://gitee.com/intelligence-vision/face-vectordb-login.git.
 ```
-
-<div align="center" >
-<img src="https://pycver.gitee.io/ows-pics/imgs/IntelligenceVisionGroup.jpg" width="20%">
-</div>
